@@ -14,11 +14,11 @@ My first repository
 1. Venom
 2. Venom: Let there be Carnage
 3. Venom: The last dance
-[^1]: This is the Protagonists.
+## This is the Protagonists.
 - Eddie Brock
 - Venom
   
-[^1]: This is the Antagonists.
+## This is the Antagonists.
 - Carnage
 - Knull
 
