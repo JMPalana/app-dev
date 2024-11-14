@@ -5,7 +5,7 @@ My first repository
 
 **Title: Venom**
 
-*Main Character: Eddie Brock*
+*Main Character: Eddie Brock & Venom*
 >"We are Venom"
 >"Let there be Carnage"
 
